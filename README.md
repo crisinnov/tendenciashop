@@ -1,0 +1,2 @@
+# tendenciashop
+Tienda en linea
